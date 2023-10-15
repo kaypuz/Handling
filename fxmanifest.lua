@@ -5,7 +5,7 @@ game 'gta5'
 name "Handling"
 description "Handling Test"
 author "Kaypuz"
-version "1.2.8"
+version "0.0.2"
 
 
 files {
